@@ -1,4 +1,4 @@
-name: dq_car_prices
+name: car_prices
 dependencies:
 - python=3
 - numpy
